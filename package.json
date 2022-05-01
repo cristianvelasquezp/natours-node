@@ -1,0 +1,23 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianvelasquezp/natours-node.git"
+  },
+  "author": "Cristian Velasquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristianvelasquezp/natours-node/issues"
+  },
+  "homepage": "https://github.com/cristianvelasquezp/natours-node#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "morgan": "^1.10.0"
+  }
+}
